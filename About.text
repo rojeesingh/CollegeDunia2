@@ -1,0 +1,11 @@
+Task
+ 1. Created a table layout.
+ 2. Initially, 10 rows will be shown in the table. Implemented infinite scroll functionality.
+ You have to add rows into the same table. Show featured flag if any college has truthy featured
+ value.
+ 3. Created a dummy json of different colleges and display the colleges in the above mentioned
+ layout.
+ 4. Functionality  added :
+ ● Sort bycollegedunia rating, fees, user review rating , ascending and descending order
+ ● Search by college name.
+ ● Infinite Scroll
