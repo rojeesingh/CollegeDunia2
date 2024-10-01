@@ -1,8 +1,8 @@
 **   College Table with Infinite Scroll, Sorting, and Search **
 ----------------------------------------------------------
-```
+
  This project is a React.js frontend and Node.js backend application that displays a list of colleges in a table layout with the following features:
-```
+
 
 Features:
 1. Initial Table Display: Display a table with 10 rows initially.
