@@ -1,4 +1,5 @@
 **College Table with Infinite Scroll, Sorting, and Search**
+----------------------------------------------------------
 This project is a React.js frontend and Node.js backend application that displays a list of colleges in a table layout with the following features:
 
 Features:
@@ -10,3 +11,9 @@ Features:
 6.Fees
 7.User Review Rating Sorting is available in both ascending and descending order.
 8.Search: Users can search for colleges by their name.
+
+**Technologies Used**----
+--------------------------------
+Frontend: React.js, HTML, CSS
+Backend: Express.js, Node.js
+Development Tools: Visual Studio Code (VS Code)
