@@ -18,7 +18,7 @@ Frontend: React.js, HTML, CSS
 Backend: Express.js, Node.js
 Development Tools: Visual Studio Code (VS Code)
 
-==============================================================
+=======================================
 Setup Instructions
 Follow these steps to set up the project locally on your machine:
 
@@ -44,7 +44,7 @@ Follow these steps to set up the project locally on your machine:
 
  The React frontend will start on [http://localhost:3000].
 
- =================================================================================================================================
+ ================
 ** How It Works**
 -------------------------------------
 Backend: The backend (server.js) serves a list of colleges through a simple API at /api/colleges. This is either served directly from memory or loaded from a data.json file.
@@ -56,7 +56,7 @@ Infinite Scroll loads more college rows as the user scrolls to the bottom of the
 Search: A search input allows the user to filter the table by college name.
 Sorting: Clicking on the table headers allows sorting by collegedunia rating, fees, or user review rating in ascending and descending order.
 
-===================================================================================================================================================
+=======================
 **Key Files**
 -----------
 Backend (Node.js + Express):
