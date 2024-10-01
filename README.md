@@ -17,3 +17,12 @@ Features:
 Frontend: React.js, HTML, CSS
 Backend: Express.js, Node.js
 Development Tools: Visual Studio Code (VS Code)
+
+==============================================================
+Setup Instructions
+Follow these steps to set up the project locally on your machine:
+
+1. Backend Setup (Node.js + Express)
+Navigate to the backend directory:
+> cd college-table/server
+
