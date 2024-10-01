@@ -24,23 +24,24 @@ Development Tools: Visual Studio Code (VS Code)
 Follow these steps to set up the project locally on your machine:
 
 1. Backend Setup (Node.js + Express)
- Navigate to the backend directory:
++ Navigate to the backend directory:
 > cd college-table/server
- Install the required dependencies:
+
+* Install the required dependencies:
 > npm install
-  Install the required dependencies:
+ - Install the required dependencies:
 > node server.js
-  Run the server:
+ + Run the server:
 > node server.js
 
  The backend server will start on [http://localhost:5000], serving the dummy JSON data at [/api/colleges].
 
 2. Frontend Setup (React.js)
-   Navigate to the frontend directory:
+  + Navigate to the frontend directory:
 > cd college-table-frontend
-  Install the required dependencies:
+ * Install the required dependencies:
 > npm install
-  Start the React application:
+ _ Start the React application:
 > npm start
 
  The React frontend will start on [http://localhost:3000].
