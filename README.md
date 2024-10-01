@@ -41,7 +41,7 @@ Follow these steps to set up the project locally on your machine:
 > cd college-table-frontend
  * Install the required dependencies:
 > npm install
- _ Start the React application:
+- Start the React application:
 > npm start
 
  The React frontend will start on [http://localhost:3000].
