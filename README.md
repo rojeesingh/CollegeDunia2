@@ -25,4 +25,20 @@ Follow these steps to set up the project locally on your machine:
 1. Backend Setup (Node.js + Express)
 Navigate to the backend directory:
 > cd college-table/server
+2. Install the required dependencies:
+> npm install
+3. Install the required dependencies:
+> node server.js
+4. Run the server:
+> node server.js
+5. The backend server will start on [http://localhost:5000], serving the dummy JSON data at [/api/colleges].
+
+2. Frontend Setup (React.js)
+ 1. Navigate to the frontend directory:
+> cd college-table-frontend
+ 2. Install the required dependencies:
+> npm install
+3. Start the React application:
+> npm start
+
 
